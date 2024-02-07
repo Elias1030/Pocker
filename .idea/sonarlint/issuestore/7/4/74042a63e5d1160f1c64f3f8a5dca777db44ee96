@@ -1,0 +1,32 @@
+
+j
+java:S1192K"HDefine a constant instead of duplicating this literal "Quedan " 3 times.(ş²Éóøÿÿÿÿ8…‘˜‹Ø1
+s
+java:S1104/"QMake cards a static final constant or non-public and provide accessors if needed.(»½ûÿÿÿÿ8…‘˜‹Ø1
+m
+java:S1104h"PMake palo a static final constant or non-public and provide accessors if needed.(Ù¼²8†‘˜‹Ø1
+s
+java:S1104i"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ8†‘˜‹Ø1
+n
+java:S1104j"QMake valor a static final constant or non-public and provide accessors if needed.(Ü“ß¡8†‘˜‹Ø1
+7
+java:S1220""Move this file to a named package.8†‘˜‹Ø1
+L	java:S106"+Replace this use of System.out by a logger.(Æò×ªúÿÿÿÿ8À‘˜‹Ø1
+G	java:S106"+Replace this use of System.out by a logger.(š–Ğ´8À‘˜‹Ø1
+L	java:S106"+Replace this use of System.out by a logger.(†¿Ôİûÿÿÿÿ8À‘˜‹Ø1
+L	java:S106"+Replace this use of System.out by a logger.(¼úÕ•ûÿÿÿÿ8À‘˜‹Ø1
+G	java:S106"+Replace this use of System.out by a logger.(·çí8À‘˜‹Ø1
+G	java:S106"+Replace this use of System.out by a logger.(ÅõÕÉ8À‘˜‹Ø1
+L	java:S106)"+Replace this use of System.out by a logger.(ëÛŞ±şÿÿÿÿ8Â‘˜‹Ø1
+F	java:S106F"+Replace this use of System.out by a logger.(ò›‰8Ä‘˜‹Ø1
+L	java:S106J"+Replace this use of System.out by a logger.(ê Ñãûÿÿÿÿ8Å‘˜‹Ø1
+L	java:S106K"+Replace this use of System.out by a logger.(ş²Éóøÿÿÿÿ8Å‘˜‹Ø1
+F
+java:S2140N")Use "java.util.Random.nextInt()" instead.(åËÃ†8Å‘˜‹Ø1
+L	java:S106P"+Replace this use of System.out by a logger.(ÜÀúÿÿÿÿ8Æ‘˜‹Ø1
+L	java:S106Q"+Replace this use of System.out by a logger.(ş²Éóøÿÿÿÿ8Æ‘˜‹Ø1
+G	java:S106T"+Replace this use of System.out by a logger.(£Ç¯ç8Ç‘˜‹Ø1
+K
+java:S5413V")Verify that "remove()" is used correctly.(ÈÕªüÿÿÿÿ8Ç‘˜‹Ø1
+G	java:S106W"+Replace this use of System.out by a logger.(„›‚8Ç‘˜‹Ø1
+L	java:S106Y"+Replace this use of System.out by a logger.(ş²Éóøÿÿÿÿ8Ç‘˜‹Ø1
